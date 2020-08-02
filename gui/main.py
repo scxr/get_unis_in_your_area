@@ -40,7 +40,7 @@ def get_ip_long_lat():
     return longitude,latitude
 
 def parse_into_list():
-    with open('../uni_infos.txt','r') as f:
+    with open('uni_infos.txt','r') as f:
         uni_info = f.read().split('\n')
     return uni_info
 
