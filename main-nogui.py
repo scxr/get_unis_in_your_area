@@ -43,7 +43,3 @@ def get_needed(distance):
     print(f'We found {len(output)} unis which were in that radius')
 if __name__ == "__main__":
     get_needed(input('Enter radius in miles'))
-
-
-
-
