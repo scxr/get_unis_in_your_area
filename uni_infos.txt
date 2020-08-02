@@ -1,0 +1,129 @@
+Abertay University;56.4633;2.9739;01382 308080
+Aberystwyth University;52.4178;4.0639;0800 121 4080
+Anglia Ruskin University;51.625041;0.308132;01245 686868
+Arden University;51.517689;-0.109379;0808 115 1235
+Aston University;52.486858;-1.888217;0800 917 5923
+Bangor University;53.229219;-4.129498;0800 0851818
+University of Bath;51.378116;-2.327263;No clearing available
+Bath Spa University;51.375555;-2.43826;+44 (0)1225 875 550
+University of Bedfordshire;51.87786;-0.409292;Live chat - https://www.beds.ac.uk/clearing
+University of Birmingham;52.483252;-1.93086;021 204 3000
+Birmingham City University;52.483252;-1.884917;+44 (0)121 331 5000
+University College Birmingham;52.481385;-1.906333;0121 604 1040
+Bishop Grosseteste University;53.243792;-0.536482;(01522) 583698
+University of Bolton;53.573442;-2.435254;0808 281 1111
+The Arts University Bournemouth;50.741;-1.897931;Email : admissions@aub.ac.uk
+Bournemouth University;50.742447;-1.896102;+44 (0)1202 966777
+University of Bradford;53.790788;-1.763463;0800 073 1225
+University of Brighton;50.842045;-0.119892;01273 644000
+University of Bristol;51.458417;-2.602979;0117 370 2618
+Brunel University;51.532404;-0.472993;01895272273
+Buckinghamshire New University;51.627891;-0.753281;0330 123 2023
+University of Cambridge;52.204267;0.114908;Couldn't find any info
+Canterbury Christ Church University;51.277939;1.090659;01227 926000
+Cardiff Metropolitan University;51.510222;-3.161726;0300 330 0755
+Cardiff University;51.486627;-3.178864;+44 (0)33 3241 2800
+University of Chester;53.20027;-2.899129;01244 567 470
+University of Chichester;50.845031;-0.772892;01243 816001
+Coventry University;52.407175;-1.503746;02476 888 888
+Cranfield University;52.074614;-0.628283;Couldnt find any info
+University for the Creative Arts;51.215087;-0.805373;+44 (0)1227 817 302
+University of Cumbria;54.890876;-2.922234;0808 178 7373
+De Montfort University;52.629801;-1.139642;07970 655 800
+University of Derby;52.937888;-1.497176;Use website: https://www.derby.ac.uk/clearing/
+University of Dundee;56.458245;-2.982143;Clearing phone line not available as of writing
+Durham University;54.764986;-1.578203;Not available
+University of East Anglia;52.621922;1.239176;0300 300 7994
+University of East London;51.507593;0.065081;+44 (0)20 8223 3333
+Edge Hill University;53.559683;-2.87385;email : clearing@edgehill.ac.uk
+University of Edinburgh;55.94283;-3.185372;Different based on course, check here : https://www.ed.ac.uk/studying/undergraduate/2020/ucas/scotland/clearing
+Edinburgh Napier University;55.924716;-3.288461;0333 900 3050
+University of Essex;51.877726;0.947207;https://www1.essex.ac.uk/clearing-application
+University of Exeter;50.737137;-3.535147;0300 555 6060
+Falmouth University;50.171268;-5.123837;+44 (0) 1326 213730
+University of Glasgow;55.871751;-4.28836;Visit the site : https://www.gla.ac.uk/study/clearing/
+Glasgow Caledonian University;55.866154;-4.250804;0800 027 9171
+University of Gloucestershire;51.871919;-2.223671;03330 432414
+University of Greenwich;51.482563;-0.006756;020 8331 9000
+Harper Adams University;52.779451;-2.427135;01952 815000
+Hartpury University;51.905791;-2.305861;+44 (0)1452 702333
+Heriot-Watt University;55.90966;-3.320349;+44 (0)131 322 3222
+University of Hertfordshire;51.752283;-0.240157;0300 303 6300
+University of the Highlands & Islands;57.452267;-4.213751;01463 279 190
+University of Huddersfield;53.643117;-1.777092;0330 1232 277
+University of Hull;53.771455;-0.367387;01482 534931
+Imperial College London;51.498822;-0.174874;2075895111
+Keele University;53.003437;-2.272053;01782 491120
+University of Kent;51.297233;1.063217;Different based on course : https://www.kent.ac.uk/clearing
+Kingston University;51.403243;-0.303488;+44 20 8328 1149
+University of Central Lancashire;53.761924;-2.708439;01772 830777
+Lancaster University;54.010394;-2.787729;0800 298 9542
+University of Leeds;53.806682;-1.555033;+44 (0)113 3433999
+Leeds Beckett University;53.803647;-1.549139;0113 812 3113
+Leeds Arts University;53.808845;-1.551577;Through UCAS
+Leeds Trinity University;53.848161;-1.645921;0330 058 4266
+University of Leicester;52.62425;-1.124044;0116 373 6000
+University of Lincoln;53.227911;-0.550193;0808 164 4444
+University of Liverpool;53.405936;-2.965572;https://www.liverpool.ac.uk/study/undergraduate/clearing/register-interest/
+Liverpool Hope University;53.390801;-2.892299;0151 291 3636
+Liverpool John Moores University;53.405317;-2.972671;0808 5 564 565
+University of London;51.522938;-0.130821;01895272273
+London Metropolitan University;51.552137;-0.110837;+44 (0)20 7133 4200
+London South Bank University;51.498224;-0.102086;0800 923 8888
+Loughborough University;52.769227;-1.224632;+44 (0)1509 274 403
+University of Manchester;53.46685;-2.233884;0161 672 8770
+Manchester Metropolitan University;53.470477;-2.239412;+44 (0)161 247 3000
+Middlesex University;51.59011;-0.228922;020 8411 6565
+Newcastle University;54.979187;-1.614661;0800 073 5050
+Newman University;52.432996;-1.993613;0121 476 118
+University of Northampton;52.230488;-0.886989;01604 214808
+Northumbria University;54.976762;-1.607498;0800 085 1085
+Norwich University of the Arts;52.630312;1.296697;01603 751485
+University of Nottingham;52.94125;-1.186481;0330 333 6116
+Nottingham Trent University;52.958068;-1.153986;0115 848 6000
+The Open University;52.025206;-0.709026;NA?
+University of Oxford;51.754816;-1.254367;Doesnt do it
+Oxford Brookes University;51.755011;-1.224225;0345 350 3699
+Plymouth Marjon University;50.419762;-4.110433;0800 015 2534
+University of Plymouth;50.374528;-4.140647;01752 585858
+University of Portsmouth;50.795129;-1.093569;023 9284 8076
+Queen Margaret University;55.931672;-3.073438;0800 0270 300
+Queen's University Belfast;54.584409;-5.934049;028 9244 3498
+Ravensbourne University London;51.501673;0.00575;not open yet
+University of Reading;51.454265;-0.97813;Couldnt find
+Regent's University London;51.526301;-0.154618;https://www.regents.ac.uk/apply-now-september-2020
+The Robert Gordon University;57.118081;-2.144217;per course https://www.rgu.ac.uk/courses-in-clearing-2020
+Roehampton University;51.457987;-0.243287;0300 303 8320
+Royal Agricultural University;51.709324;-1.994646;Email admissions@rau.ac.uk
+University of Salford;53.486421;-2.273442;0300 555 5030
+University of Sheffield;53.380941;-1.487947;0114 212 9900
+Sheffield Hallam University;53.378078;-1.466475;0330 024 6390
+University of South Wales;51.589264;-3.33083;03455 76 06 06
+University of Southampton;50.934483;-1.396402;Couldnt find
+Solent University;50.908698;-1.401089;023 8001 1722
+University of St Andrews;56.341693;-2.792752;No vacancies
+St Mary's University, Twickenham;51.437026;-0.33507;020 8240 4225
+Staffordshire University;53.009066;-2.176138;0800 590 830
+University of Stirling;56.145412;-3.920571;https://www.stir.ac.uk/clearing/register/
+University of Strathclyde;55.862829;-4.242854;https://www.strath.ac.uk/studywithus/clearing/
+University of Suffolk;52.052225;1.163399;01473 338352
+University of Sunderland;54.895166;-1.380942;0191 515 3000
+University of Surrey;51.242753;-0.587776;+44 (0) 800 052 2248
+University of Sussex;50.86709;-0.087914;+44 (0)1273 007820
+Swansea University;51.609218;-3.979952;0800 094 9071
+Teesside University;54.570674;-1.235274;0800 952 0226
+University of the Arts London;51.51779;-0.116542;Couldnt find
+Ulster University;51.522493;-0.111523;028 9036 6565
+University of Wales;51.485432;-3.181384;0300 323 1828
+University of Wales, Trinity Saint David;52.114391;-4.075354;0300 323 1828
+University of Warwick;52.380063;-1.561698;Different per course https://warwick.ac.uk/study/results/clearing/
+University of the West of England;51.500317;-2.547574;+44(0) 117 32 83333
+University of the West of Scotland;55.778247;-4.104099;+44(0)141 849 4101.
+University of West London;51.50688;-0.303358;0800 0368888
+University of Westminster;51.516936;-0.143166;0800 0279 777
+University of Winchester;51.0597;-1.328248;01962 82723
+University of Wolverhampton;52.588177;-2.127439;01902 518585
+University of Worcester;52.19691;-2.240978;01905 855111
+Wrexham Glyndŵr University;53.052623;-3.006165;01978 293439
+University of York;53.945533;-1.056167;(0)1904 234868
+York St John University;53.964914;-1.080096;01904 809 700
